@@ -141,8 +141,8 @@ window.INVITE = {
   contactsIntro: { bn: "কিছু জানার আছে? এক বার্তাতেই পাবেন আমাদের।", en: "Any questions? Just send us a message." },
   // Phone numbers with country code, digits only.
   contacts: [
-    { name: { bn: "বরপক্ষের নাম", en: "Groom's side contact" }, side: { bn: "শাশ্বত", en: "Shaswata" }, phone: "8621052778" },
-    { name: { bn: "কনেপক্ষের নাম", en: "Bride's side contact" }, side: { bn: "পিয়াসা", en: "Piyasa" }, phone: "7583944691" }
+    { name: { bn: "বরপক্ষের নাম", en: "Groom's side contact" }, side: { bn: "শাশ্বত", en: "Shaswata" }, phone: "918621052778" },
+    { name: { bn: "কনেপক্ষের নাম", en: "Bride's side contact" }, side: { bn: "পিয়াসা", en: "Piyasa" }, phone: "917583944691" }
   ],
 
   rsvp: {
