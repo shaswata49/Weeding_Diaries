@@ -56,7 +56,7 @@ window.INVITE = {
     title:   { bn: "আমাদের গল্প", en: "Our Story" }
   },
   story: [
-    { year: 2018, photo: "photos/story-1",
+    { year: 2018, photo: "photos/image-1",
       title: { bn: "প্রথম দেখা", en: "The First Glance" },
       text:  { bn: "এক বন্ধুর মাধ্যমে প্রথম আলাপ এবং ২৫ শে ডিসেম্বর প্রথম সাক্ষাৎ। সেই দিনই দুজনেরই মনে হয়েছিল, এই মানুষটির উপর ভরসা করা যায়।", en: "A mutual friend brought them together, and they met for the first time on 25th December. From that very day, they felt they could trust each other." } },
     { year: 2022, photo: "photos/story-2",
